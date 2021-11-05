@@ -94,7 +94,7 @@ jobs:
                   images: [
                     {
                       alt: 'enabling workflows button',
-                      image_url: 'img/workflow-enable-button.png'
+                      image_url: 'https://github.com/yutoacts/spark/blob/master/.github/workflows/images/workflow-enable-button.png'
                     }
                   ]
                 }
